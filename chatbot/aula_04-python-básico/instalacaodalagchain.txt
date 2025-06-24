@@ -1,2 +1,4 @@
 para instalar a langchain vá até o terminal python e use este comando:
 pip install langchain
+e depois disso, precisaremos usar este comando no terminal:
+pip install langchain.groq
