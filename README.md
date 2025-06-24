@@ -44,4 +44,5 @@ Desenvolvido por Pedro Rodrigues Salomão
 
 🤝 Conecte-se comigo:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn--Pedro%20Salomão-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/pedro-rodrigues-salomão-55a0ab310)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn--Pedro%20Salomão-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pedro-rodrigues-salom%C3%A3o-55a0ab310/)
+
